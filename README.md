@@ -1,4 +1,4 @@
-## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎  
+## 📖 About Me 
 
 🖥 Bachelor’s student in Information Technology at Tampere University  
 
@@ -10,7 +10,7 @@
 
 🇲🇽 Exchange year: Tec de Monterrey in Guadalajara, Mexico  
 
-## 🔭 Currently Working On  
+## 🔭 Currently working on    
 - Course projects  
 - Improving data analysis skills using Python  
 
@@ -30,9 +30,6 @@
 ### ♟️ C++ Chess GUI using Qt  
 
 - Final project for the *Programming 3* course
-- 
 - Applied object-oriented programming, including code structuring with classes and inheritance to model chess pieces
-- 
 - Tools: C++, Qt Creator
-- 
 - Focused on GUI development, game logic, and event-driven programming  
