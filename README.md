@@ -12,7 +12,8 @@
 
 ## 🔭 Currently working on    
 - Course projects  
-- Improving data analysis skills using Python  
+- Improving data analysis skills using Python and Azure
+- Bachelor's thesis  
 
 ## Technologies
 <p align="left">
