@@ -8,11 +8,13 @@
 
 🌱 Currently learning: Azure, data analysis and machine learning fundamentals  
 
-🇲🇽 Exchange year: Tec de Monterrey in Guadalajara, Mexico  
+🇲🇽 Exchange year: Tec de Monterrey in Guadalajara, Mexico
+
+🌎 I can speak and work in Finnish, Swedish, English and Spanish
 
 ## 🔭 Currently working on    
 - Course projects  
-- Improving data analysis skills using Python and Azure
+- Improving data analysis skills using Python and Azure in my own projects
 - Bachelor's thesis  
 
 ## Technologies
