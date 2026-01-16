@@ -25,12 +25,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="40"/>
 </p>
-
-## 📂 Projects  
-
-### ♟️ C++ Chess GUI using Qt  
-
-- Final project for the *Programming 3* course
-- Applied object-oriented programming, including code structuring with classes and inheritance to model chess pieces
-- Tools: C++, Qt Creator
-- Focused on GUI development, game logic, and event-driven programming
