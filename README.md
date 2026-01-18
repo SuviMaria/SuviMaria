@@ -4,7 +4,7 @@
 
 🖲️ Major: Signal Processing and Machine Learning  
 
-⚙️ Interests: Data analytics, signal processing and algorithms  
+⚙️ Interests: Data science, signal processing and algorithms  
 
 🌱 Currently learning: Azure, data analysis and machine learning fundamentals  
 
